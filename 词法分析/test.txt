@@ -1,0 +1,15 @@
+#include<stdio.h>
+//test
+int main()
+{
+	float num1;
+	int _num2, 4flag;
+	_num2 -= (int) num1;
+	num1 = 6E-2;
+	printf("right sentence");//test file
+	a = "false sentence;
+	/*jjjjjjjjjj
+	aaaaaaaa*/
+	num1 -= 1.354;
+	return 0;
+}

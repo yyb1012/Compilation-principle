@@ -1,0 +1,2 @@
+Error in Line 6:   f	Error type: Error input
+Error in Line 10:   "false sentence;	Error type: Î´Ê¶±ð½áÊø·û
